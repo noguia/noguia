@@ -7,7 +7,7 @@ Designer & Developer
 Noguia is a software engineer student currently studying Computer Science . As a Computer Science major, I have a strong interest in software development and am proficient in programming languages such as Java, Python, and C . I have also taken courses in web development, database management, and artificial intelligence. Outside of my coursework, I am constantly exploring new technologies and experimenting with my own projects.
 
 * 🌍  I'm based in fez, MAR
-* 🖥️  See my social life at [website](http://https://bio.link/brahimou)
+* 🖥️  See my social life at [website](https://bio.link/brahimou)
 * ✉️  You can contact me at [noguiaisback@gmail.com](mailto:noguiaisback@gmail.com)
 * 🧠  I'm learning everything new
 
