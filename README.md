@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Designer & Developer
 --------------------
 
-Noguia is a software engineer student currently studying Computer Science . As a Computer Science major, I have a strong interest in software development and am proficient in programming languages such as Java, Python, and C . I have also taken courses in web development, database management, and artificial intelligence. Outside of my coursework, I am constantly exploring new technologies and experimenting with my own projects.
+Noguia is a software engineer student currently studying Computer Science . As a Computer Science major, I have a strong interest in software development and i want to learn more about programming languages such as Java, Python, and C . I have also taken courses in web development, database management, and artificial intelligence. Outside of my coursework, I am constantly exploring new technologies and experimenting with my own projects.
 
 * 🌍  I'm based in fez, MAR
 * 🖥️  See my social life at [website](https://bio.link/brahimou)
